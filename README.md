@@ -71,9 +71,14 @@ npm run build
 
 This tool is intended for authorized security testing only. Always obtain proper authorization before conducting penetration tests. The authors are not responsible for any misuse of this software.
 
-## Contributing
+## ⚙️ Project Information
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+This project was created using the AI tool provided by [bolt.new](https://bolt.new).  
+Please note that some of the generated code may require modifications.  
+I will continue to update and fix issues as they arise, so if you notice any problems, feel free to report them.  
+Pull requests are, of course, always welcome!
+
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
